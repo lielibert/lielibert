@@ -1,5 +1,10 @@
-<h1 align="center">👋 <i>Hi, Myself Libert</i></h1>
+<span style="font-family:JetBrains Regular;">
 
-## About Myself
+<h1 align="center">👋 <b>Hi, Myself Libert</b></h1>
 
-Hello i am currently in India. I know python, cpp, and some js. Learning AI and more
+### :boom: About Myself
+
+- Hello i am currently in India.
+- I know python, cpp, and some js.
+- Learning AI and more. 🔥
+</span>
