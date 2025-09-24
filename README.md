@@ -1,5 +1,5 @@
-# lielibert
-About myself
-Hello i am currently in india .
-I have complete a course in Python,
-and currently learning web development
+<h1 align="center">👋 <i>Hi, Myself Libert</i></h1>
+
+## About Myself
+
+Hello i am currently in India. I know python, cpp, and some js. Learning AI and more
